@@ -1,0 +1,23 @@
+rencana port yang akan di gunakan
+DS1307 
+portC4, SDA
+portC5, SCL
+
+LCD 
+portB0 pin14, pinD0
+portB1 pin15, pinD1
+portB2 pin16, pinD2
+portB3 pin17, pinD3
+portB4 pin18, pinD4
+portB5 pin19, pinD5
+portB6 pin9, pinD6
+portB0 pin10, pinD7
+
+INPUT
+PortD0, ON/Off, Setting
+portD1, Menu
+
+OUTPUT 
+portD2, Rsw1
+portD3, Ssw2
+PortD4, Tsw3
